@@ -1,8 +1,8 @@
 Reception
-rtsp://10.0.15.20:7447/PSoPxMayUP6K5qMO
+rtsp://10.0.15.20:7447/EAyVzi8eHJQqtMNF
 
 Lift
-rtsp://10.0.15.20:7447/PeV9sCdEDuOK3ECL
+rtsp://10.0.15.20:7447/R1edSU1EngzWFPqc
 
-East Front
-rtsp://10.0.15.20:7447/hAiYDUCcewwZA8Fb
+Carpark
+rtsp://10.0.15.20:7447/4kkaQYvefHnoKDiY
